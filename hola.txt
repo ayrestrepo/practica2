@@ -1,2 +1,7 @@
 Texto breve
+<<<<<<< HEAD
 Modifico 2
+=======
+Texto modificado
+Otra modificacion
+>>>>>>> refs/remotes/origin/main
